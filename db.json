@@ -1,0 +1,15 @@
+{
+  "responseStatus": 200,
+  "responseStatusText": "success",
+  "statusInfo": "OK",
+  "response": {
+    "BdTxTp": {
+      "cd": 0
+    },
+    "TrsrBondMkt": {
+      "opngDtTm": "2021-09-17T09:25:00",
+      "clsgDtTm": "2021-09-20T05:00:00",
+      "qtnDtTm": "2021-09-17T15:22:45.17",
+      "stsCd": 4,
+      "sts": "Fechado"
+    }
